@@ -1,2 +1,2 @@
 Devnet:
-https://devnet.suivision.xyz/
+https://suiscan.xyz/devnet/home
